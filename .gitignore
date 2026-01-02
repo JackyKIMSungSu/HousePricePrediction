@@ -270,3 +270,6 @@ data/
 # Add Data file and model file
 *.csv
 *.pkl
+
+# Add file
+baseline_code.ipynb
